@@ -1,6 +1,6 @@
 {
   "name": "foundation-v2-server",
-  "version": "0.0.1",
+  "version": "0.0.1-wavertex",
   "description": "A high performance Stratum pool-server written in Node.js",
   "keywords": [
     "bitcoin",
